@@ -7,4 +7,10 @@
 !Jenkinsfile
 !/tests/
 !/projects/
-
+!cumulusci.yml
+!sfdx-project.json
+!README.md
+!/robot/
+/robot/*/results/
+!/datasets/
+!/orgs/
