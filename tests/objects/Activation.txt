@@ -1,0 +1,22 @@
+﻿*** Settings ***
+
+Documentation     Defines all resources and keywords 
+...               handling the Activation object
+...
+...  
+
+*** Variables ***
+
+*** Keywords ***
+
+Begin
+    #Fail    Keyword 'Activation.Begin' not implemented
+
+    No Operation
+    Log    TODO: Implementation of Activation.Begin for ${SUITE NAME}
+
+Enter Reason
+    No Operation
+    Log    TODO: Implementation of Activation.Enter Reason for ${SUITE NAME}
+
+
