@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+/*/
+
+# But not these files...
+!.gitignore
+!Jenkinsfile
+!cumulusci.yml
+!sfdx-project.json
+!README.md
+!/robot/
+/robot/*/results/
+!/datasets/
+!/orgs/
